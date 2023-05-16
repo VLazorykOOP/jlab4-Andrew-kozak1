@@ -1,0 +1,1 @@
+Спільні слова з файлів max.txt та Andrew.txt: [the, best]
